@@ -1,0 +1,10 @@
+*.DS_Store
+.idea/
+.idea/.name
+.idea/workspace.xml
+.idea/encodings.xml
+.idea/fortyonefortyone.com.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
