@@ -109,3 +109,10 @@ html,body{margin:0; padding:0;}
         top: 40px;
     }
 }
+
+@media (max-width: 768px) {
+    .navbar-collapse {
+        max-height: auto;
+        overflow-x: auto;
+    }
+}
